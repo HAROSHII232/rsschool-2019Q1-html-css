@@ -1,4 +1,4 @@
-# rsschool-2019Q1-html-css
+# rsschool-2019Q1-codeacademy
 
 Ihar Voitau  
 HTML CSS Basics: https://www.codecademy.com/users/HAROSHII/achievements  
